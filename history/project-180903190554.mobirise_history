@@ -39,10 +39,9 @@
     },
     "versionFirst": "4.6.6",
     "uniqCompNum": 142,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "siteFonts": []
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -729,7 +728,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "REHOBOTH",
+                "title": "REHOBOT",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "La cultura del dono è la porta della speranza.",
